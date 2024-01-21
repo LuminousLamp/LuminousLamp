@@ -4,4 +4,4 @@ I am a junior student of the Univeristy of Michigan, majoring in CS, double degr
 
 Now learning courses Operating System, Computer Security & Web System! Seeking a fantastic intern experience.
 
-You can reach me through erdao@umich.edu or liangerdao@sjtu.edu.cn. Have fun together in coding!
+You can reach me through erdao@umich.edu or liangerdao@sjtu.edu.cn. Have fun together in coding 🥳!
