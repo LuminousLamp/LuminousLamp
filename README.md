@@ -1,4 +1,4 @@
-### Hi! I am Erdao Liang 👋 You can call me LED💡
+## Hi! I am Erdao Liang 👋 You can call me LED💡
 
 I am a junior student of the Univeristy of Michigan, majoring in CS, double degree with Shanghai Jiao Tong University. LED is the abbr. of my name, and that's where the name "LuminousLamp" comes from.
 
